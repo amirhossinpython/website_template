@@ -53,7 +53,7 @@ def process_website(url):
 def main():
 
     root = tk.Tk()
-    root.title("Website Scraper")
+    root.title("قالب سایت")
 
     url_label = tk.Label(root, text="Enter the URL of the website:", font=("Helvetica", 14))
     url_label.pack()
